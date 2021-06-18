@@ -1,0 +1,24 @@
+.card {
+    border: 1px solid rgb(234 227 227);
+    background-color: rgb(234 227 227);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 5px 10px 20px;
+    position: relative;
+}
+
+.title {
+    font-size: 18px;
+    color: #60546b;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.description {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 80%;
+    color: #60546b;
+    font-size: 14px;
+}

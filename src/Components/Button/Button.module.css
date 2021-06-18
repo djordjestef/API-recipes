@@ -1,0 +1,27 @@
+.button {
+    font-size: 12px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #c04131;
+    border: 1px solid #dd4b39;
+    border-radius: 2px;
+    padding: 5px 10px;
+    background-color: #dd4b39;
+    color: #fff;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button:hover {
+    background-color: #af301f;
+}
+
+.button:active {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+}

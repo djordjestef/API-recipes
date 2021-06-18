@@ -1,0 +1,29 @@
+.wrapper {
+    width: 30%;
+    padding: 20px 40px;
+    border: 1px solid #60dcd6;
+    margin: 50px auto;
+    border-radius: 8px;
+    background-color: #60dcd6;
+    -webkit-box-shadow: 5px 4px 15px 2px rgba(0, 0, 0, 0.82);
+    box-shadow: 5px 4px 15px 2px rgba(0, 0, 0, 0.82);
+}
+
+ul {
+    padding: 0;
+}
+
+input {
+    width: 50%;
+    padding: 5px;
+    border-radius: 5px;
+    border: grey;
+}
+
+input:focus {
+    outline: none;
+}
+
+h2 {
+    color: #60546b;
+}

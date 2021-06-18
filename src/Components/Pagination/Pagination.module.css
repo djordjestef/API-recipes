@@ -1,0 +1,23 @@
+.pagination_btn {
+    background-color: rgb(234 227 227);
+    margin: 4px;
+    border: 1px solid grey;
+    padding: 7px 8px;
+    border-radius: 4px;
+    color: #75697d;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.pagination_btn:focus {
+    background-color: #b5aeae;
+    outline: none;
+}
+
+.pagination_btn:hover {
+    background-color: #b5aeae;
+}
+
+.pagination_wrapper {
+    text-align: center;
+}
