@@ -1,1 +1,1 @@
-View recipes, the ability to delete as well as search. recipes using the API.<img width="906" alt="Screenshot 2021-07-10 at 11 27 21 AM" src="https://user-images.githubusercontent.com/37479904/125158511-fac99100-e171-11eb-879a-20f611a33a5c.png">
+View recipes, the ability to delete as well as search. Recipes using the API.<img width="906" alt="Screenshot 2021-07-10 at 11 27 21 AM" src="https://user-images.githubusercontent.com/37479904/125158511-fac99100-e171-11eb-879a-20f611a33a5c.png">
